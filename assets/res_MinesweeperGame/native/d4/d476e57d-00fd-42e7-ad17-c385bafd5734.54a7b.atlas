@@ -1,0 +1,97 @@
+
+jingzhan.png
+size: 330,536
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bishou
+  rotate: false
+  xy: 184, 283
+  size: 17, 62
+  orig: 17, 62
+  offset: 0, 0
+  index: -1
+bishou_bai
+  rotate: true
+  xy: 76, 3
+  size: 29, 72
+  orig: 31, 74
+  offset: 1, 1
+  index: -1
+bishou_cheng
+  rotate: false
+  xy: 137, 108
+  size: 30, 72
+  orig: 31, 74
+  offset: 0, 1
+  index: -1
+bishou_lan
+  rotate: false
+  xy: 137, 34
+  size: 30, 72
+  orig: 31, 74
+  offset: 0, 1
+  index: -1
+bishou_lv
+  rotate: false
+  xy: 281, 52
+  size: 30, 72
+  orig: 31, 74
+  offset: 0, 1
+  index: -1
+bishou_zi
+  rotate: true
+  xy: 2, 2
+  size: 30, 72
+  orig: 31, 74
+  offset: 0, 1
+  index: -1
+dao/xiahuidaoguang_00000
+  rotate: true
+  xy: 2, 49
+  size: 131, 133
+  orig: 263, 225
+  offset: 8, 65
+  index: -1
+dao/xiahuidaoguang_00002
+  rotate: true
+  xy: 2, 347
+  size: 187, 201
+  orig: 263, 225
+  offset: 53, 5
+  index: -1
+dao/xiahuidaoguang_00004
+  rotate: false
+  xy: 2, 182
+  size: 180, 163
+  orig: 263, 225
+  offset: 54, 13
+  index: -1
+dao/xiahuidaoguang_00006
+  rotate: true
+  xy: 184, 126
+  size: 155, 130
+  orig: 263, 225
+  offset: 56, 30
+  index: -1
+dao/xiahuidaoguang_00008
+  rotate: true
+  xy: 205, 404
+  size: 130, 117
+  orig: 263, 225
+  offset: 59, 36
+  index: -1
+dao/xiahuidaoguang_00010
+  rotate: false
+  xy: 205, 288
+  size: 123, 114
+  orig: 263, 225
+  offset: 62, 38
+  index: -1
+dao/xiahuidaoguang_00012
+  rotate: false
+  xy: 169, 13
+  size: 110, 111
+  orig: 263, 225
+  offset: 66, 39
+  index: -1

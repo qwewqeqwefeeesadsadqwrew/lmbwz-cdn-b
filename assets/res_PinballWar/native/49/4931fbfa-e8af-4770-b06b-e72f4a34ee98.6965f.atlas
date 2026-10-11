@@ -1,0 +1,223 @@
+
+datiangou_zidan.png
+size: 2016, 113
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+tx/dian (1)
+  rotate: false
+  xy: 2, 2
+  size: 119, 109
+  orig: 119, 109
+  offset: 0, 0
+  index: -1
+tx/dian (10)
+  rotate: false
+  xy: 123, 2
+  size: 119, 109
+  orig: 119, 109
+  offset: 0, 0
+  index: -1
+tx/dian (12)
+  rotate: false
+  xy: 123, 2
+  size: 119, 109
+  orig: 119, 109
+  offset: 0, 0
+  index: -1
+tx/dian (13)
+  rotate: false
+  xy: 123, 2
+  size: 119, 109
+  orig: 119, 109
+  offset: 0, 0
+  index: -1
+tx/dian (17)
+  rotate: false
+  xy: 123, 2
+  size: 119, 109
+  orig: 119, 109
+  offset: 0, 0
+  index: -1
+tx/dian (19)
+  rotate: false
+  xy: 123, 2
+  size: 119, 109
+  orig: 119, 109
+  offset: 0, 0
+  index: -1
+tx/dian (22)
+  rotate: false
+  xy: 123, 2
+  size: 119, 109
+  orig: 119, 109
+  offset: 0, 0
+  index: -1
+tx/dian (23)
+  rotate: false
+  xy: 123, 2
+  size: 119, 109
+  orig: 119, 109
+  offset: 0, 0
+  index: -1
+tx/dian (25)
+  rotate: false
+  xy: 123, 2
+  size: 119, 109
+  orig: 119, 109
+  offset: 0, 0
+  index: -1
+tx/dian (26)
+  rotate: false
+  xy: 123, 2
+  size: 119, 109
+  orig: 119, 109
+  offset: 0, 0
+  index: -1
+tx/dian (27)
+  rotate: false
+  xy: 123, 2
+  size: 119, 109
+  orig: 119, 109
+  offset: 0, 0
+  index: -1
+tx/dian (29)
+  rotate: false
+  xy: 123, 2
+  size: 119, 109
+  orig: 119, 109
+  offset: 0, 0
+  index: -1
+tx/dian (30)
+  rotate: false
+  xy: 123, 2
+  size: 119, 109
+  orig: 119, 109
+  offset: 0, 0
+  index: -1
+tx/dian (4)
+  rotate: false
+  xy: 123, 2
+  size: 119, 109
+  orig: 119, 109
+  offset: 0, 0
+  index: -1
+tx/dian (6)
+  rotate: false
+  xy: 123, 2
+  size: 119, 109
+  orig: 119, 109
+  offset: 0, 0
+  index: -1
+tx/dian (8)
+  rotate: false
+  xy: 123, 2
+  size: 119, 109
+  orig: 119, 109
+  offset: 0, 0
+  index: -1
+tx/dian (11)
+  rotate: false
+  xy: 244, 2
+  size: 119, 109
+  orig: 119, 109
+  offset: 0, 0
+  index: -1
+tx/dian (14)
+  rotate: false
+  xy: 365, 2
+  size: 119, 109
+  orig: 119, 109
+  offset: 0, 0
+  index: -1
+tx/dian (15)
+  rotate: false
+  xy: 486, 2
+  size: 119, 109
+  orig: 119, 109
+  offset: 0, 0
+  index: -1
+tx/dian (16)
+  rotate: false
+  xy: 607, 2
+  size: 119, 109
+  orig: 119, 109
+  offset: 0, 0
+  index: -1
+tx/dian (18)
+  rotate: false
+  xy: 728, 2
+  size: 119, 109
+  orig: 119, 109
+  offset: 0, 0
+  index: -1
+tx/dian (2)
+  rotate: false
+  xy: 849, 2
+  size: 119, 109
+  orig: 119, 109
+  offset: 0, 0
+  index: -1
+tx/dian (20)
+  rotate: false
+  xy: 970, 2
+  size: 119, 109
+  orig: 119, 109
+  offset: 0, 0
+  index: -1
+tx/dian (21)
+  rotate: false
+  xy: 1091, 2
+  size: 119, 109
+  orig: 119, 109
+  offset: 0, 0
+  index: -1
+tx/dian (24)
+  rotate: false
+  xy: 1212, 2
+  size: 119, 109
+  orig: 119, 109
+  offset: 0, 0
+  index: -1
+tx/dian (28)
+  rotate: false
+  xy: 1333, 2
+  size: 119, 109
+  orig: 119, 109
+  offset: 0, 0
+  index: -1
+tx/dian (3)
+  rotate: false
+  xy: 1454, 2
+  size: 119, 109
+  orig: 119, 109
+  offset: 0, 0
+  index: -1
+tx/dian (5)
+  rotate: false
+  xy: 1575, 2
+  size: 119, 109
+  orig: 119, 109
+  offset: 0, 0
+  index: -1
+tx/dian (7)
+  rotate: false
+  xy: 1696, 2
+  size: 119, 109
+  orig: 119, 109
+  offset: 0, 0
+  index: -1
+tx/dian (9)
+  rotate: false
+  xy: 1817, 2
+  size: 119, 109
+  orig: 119, 109
+  offset: 0, 0
+  index: -1
+zidan
+  rotate: false
+  xy: 1938, 35
+  size: 76, 76
+  orig: 91, 94
+  offset: 9, 11
+  index: -1

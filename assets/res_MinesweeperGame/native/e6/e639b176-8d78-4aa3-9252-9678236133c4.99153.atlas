@@ -1,0 +1,104 @@
+
+fuanzhuan.png
+size: 1178,314
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baoxiang1
+  rotate: false
+  xy: 2, 158
+  size: 166, 154
+  orig: 166, 154
+  offset: 0, 0
+  index: -1
+baoxiang2
+  rotate: false
+  xy: 2, 2
+  size: 166, 154
+  orig: 166, 154
+  offset: 0, 0
+  index: -1
+cheng
+  rotate: false
+  xy: 170, 158
+  size: 166, 154
+  orig: 166, 154
+  offset: 0, 0
+  index: -1
+cheng_2
+  rotate: false
+  xy: 170, 2
+  size: 166, 154
+  orig: 166, 154
+  offset: 0, 0
+  index: -1
+di_guai1
+  rotate: false
+  xy: 338, 158
+  size: 166, 154
+  orig: 166, 154
+  offset: 0, 0
+  index: -1
+di_jingyingguai
+  rotate: false
+  xy: 338, 2
+  size: 166, 154
+  orig: 166, 154
+  offset: 0, 0
+  index: -1
+hong
+  rotate: false
+  xy: 506, 158
+  size: 166, 154
+  orig: 166, 154
+  offset: 0, 0
+  index: -1
+hong_2
+  rotate: false
+  xy: 506, 2
+  size: 166, 154
+  orig: 166, 154
+  offset: 0, 0
+  index: -1
+lan
+  rotate: false
+  xy: 674, 158
+  size: 166, 154
+  orig: 166, 154
+  offset: 0, 0
+  index: -1
+lan_2
+  rotate: false
+  xy: 674, 2
+  size: 166, 154
+  orig: 166, 154
+  offset: 0, 0
+  index: -1
+lv
+  rotate: false
+  xy: 842, 158
+  size: 166, 154
+  orig: 166, 154
+  offset: 0, 0
+  index: -1
+lv_2
+  rotate: false
+  xy: 842, 2
+  size: 166, 154
+  orig: 166, 154
+  offset: 0, 0
+  index: -1
+zi
+  rotate: false
+  xy: 1010, 158
+  size: 166, 154
+  orig: 166, 154
+  offset: 0, 0
+  index: -1
+zi_2
+  rotate: false
+  xy: 1010, 2
+  size: 166, 154
+  orig: 166, 154
+  offset: 0, 0
+  index: -1

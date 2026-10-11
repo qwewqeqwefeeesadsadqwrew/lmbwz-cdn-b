@@ -1,0 +1,34 @@
+
+che.png
+size: 367, 167
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+di
+  rotate: true
+  xy: 219, 36
+  size: 129, 66
+  orig: 129, 66
+  offset: 0, 0
+  index: -1
+lunzi
+  rotate: true
+  xy: 287, 86
+  size: 79, 78
+  orig: 79, 78
+  offset: 0, 0
+  index: -1
+lunzi2
+  rotate: true
+  xy: 287, 5
+  size: 79, 78
+  orig: 79, 78
+  offset: 0, 0
+  index: -1
+st
+  rotate: true
+  xy: 2, 2
+  size: 163, 215
+  orig: 163, 215
+  offset: 0, 0
+  index: -1

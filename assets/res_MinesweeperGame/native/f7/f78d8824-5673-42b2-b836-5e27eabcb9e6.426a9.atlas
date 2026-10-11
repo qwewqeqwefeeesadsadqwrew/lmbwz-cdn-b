@@ -1,0 +1,48 @@
+
+bingzhadan.png
+size: 759,115
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bingdilei
+  rotate: true
+  xy: 2, 2
+  size: 111, 124
+  orig: 111, 125
+  offset: 0, 1
+  index: -1
+binglei_bai
+  rotate: true
+  xy: 128, 2
+  size: 111, 125
+  orig: 111, 125
+  offset: 0, 0
+  index: -1
+binglei_cheng
+  rotate: true
+  xy: 255, 2
+  size: 111, 124
+  orig: 111, 125
+  offset: 0, 1
+  index: -1
+binglei_lan
+  rotate: true
+  xy: 381, 2
+  size: 111, 124
+  orig: 111, 125
+  offset: 0, 1
+  index: -1
+binglei_lv
+  rotate: true
+  xy: 507, 2
+  size: 111, 124
+  orig: 111, 125
+  offset: 0, 1
+  index: -1
+binglei_zi
+  rotate: true
+  xy: 633, 2
+  size: 111, 124
+  orig: 111, 125
+  offset: 0, 1
+  index: -1
