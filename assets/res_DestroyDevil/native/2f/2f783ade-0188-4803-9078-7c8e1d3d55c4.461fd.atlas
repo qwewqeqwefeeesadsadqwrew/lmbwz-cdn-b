@@ -1,0 +1,223 @@
+
+monster_10.png
+size: 1889, 1745
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1putongguai
+  rotate: false
+  xy: 2, 70
+  size: 703, 542
+  orig: 1147, 1092
+  offset: 215, 285
+  index: -1
+bowen
+  rotate: false
+  xy: 1446, 613
+  size: 376, 362
+  orig: 549, 519
+  offset: 88, 81
+  index: -1
+bx/ae_zombie_blood_01
+  rotate: false
+  xy: 1824, 621
+  size: 32, 32
+  orig: 75, 75
+  offset: 22, 22
+  index: -1
+bx/ae_zombie_blood_02
+  rotate: true
+  xy: 1824, 728
+  size: 39, 40
+  orig: 75, 75
+  offset: 18, 18
+  index: -1
+bx/ae_zombie_blood_03
+  rotate: false
+  xy: 1824, 769
+  size: 47, 47
+  orig: 75, 75
+  offset: 14, 14
+  index: -1
+bx/ae_zombie_blood_04
+  rotate: false
+  xy: 1824, 920
+  size: 56, 55
+  orig: 75, 75
+  offset: 9, 9
+  index: -1
+bx/ae_zombie_blood_05
+  rotate: false
+  xy: 2, 2
+  size: 64, 66
+  orig: 75, 75
+  offset: 5, 4
+  index: -1
+bx/ae_zombie_blood_06
+  rotate: false
+  xy: 1518, 48
+  size: 70, 70
+  orig: 75, 75
+  offset: 2, 2
+  index: -1
+bx/ae_zombie_blood_07
+  rotate: false
+  xy: 1446, 46
+  size: 70, 72
+  orig: 75, 75
+  offset: 2, 1
+  index: -1
+bx/ae_zombie_blood_08
+  rotate: false
+  xy: 1446, 120
+  size: 71, 73
+  orig: 75, 75
+  offset: 2, 1
+  index: -1
+bx/ae_zombie_blood_09
+  rotate: true
+  xy: 707, 72
+  size: 73, 74
+  orig: 75, 75
+  offset: 1, 0
+  index: -1
+bx/ae_zombie_blood_10
+  rotate: false
+  xy: 707, 455
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+bx/ae_zombie_blood_11
+  rotate: false
+  xy: 707, 378
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+bx/ae_zombie_blood_12
+  rotate: false
+  xy: 707, 301
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+bx/ae_zombie_blood_13
+  rotate: false
+  xy: 707, 224
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+bx/ae_zombie_blood_14
+  rotate: false
+  xy: 707, 147
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+bx/ae_zombie_blood_15
+  rotate: false
+  xy: 1446, 195
+  size: 73, 73
+  orig: 75, 75
+  offset: 1, 1
+  index: -1
+shetou
+  rotate: true
+  xy: 1824, 818
+  size: 100, 55
+  orig: 100, 55
+  offset: 0, 0
+  index: -1
+shetou2
+  rotate: false
+  xy: 707, 532
+  size: 86, 80
+  orig: 86, 80
+  offset: 0, 0
+  index: -1
+sp1
+  rotate: false
+  xy: 1873, 802
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+sp2
+  rotate: true
+  xy: 1824, 688
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+sp3
+  rotate: true
+  xy: 1873, 769
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+sp4
+  rotate: true
+  xy: 1866, 741
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+sp5
+  rotate: true
+  xy: 1865, 706
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+sp6
+  rotate: false
+  xy: 1866, 717
+  size: 15, 22
+  orig: 15, 22
+  offset: 0, 0
+  index: -1
+sp7
+  rotate: true
+  xy: 1873, 789
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+sp8
+  rotate: false
+  xy: 1824, 655
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
+tx/bz
+  rotate: false
+  xy: 1446, 270
+  size: 370, 341
+  orig: 1147, 1092
+  offset: 388, 374
+  index: -1
+tx/bz2
+  rotate: true
+  xy: 800, 3
+  size: 972, 644
+  orig: 1147, 1092
+  offset: 109, 227
+  index: -1
+tx/bz3
+  rotate: false
+  xy: 800, 977
+  size: 1081, 766
+  orig: 1147, 1092
+  offset: 25, 159
+  index: -1
+tx/bz4
+  rotate: true
+  xy: 2, 614
+  size: 1129, 796
+  orig: 1147, 1092
+  offset: 4, 131
+  index: -1

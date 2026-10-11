@@ -1,0 +1,34 @@
+
+baoqi.png
+size: 1354,340
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fawei (1)
+  rotate: false
+  xy: 340, 2
+  size: 336, 336
+  orig: 336, 336
+  offset: 0, 0
+  index: -1
+fawei (2)
+  rotate: false
+  xy: 678, 2
+  size: 336, 336
+  orig: 336, 336
+  offset: 0, 0
+  index: -1
+fawei (3)
+  rotate: false
+  xy: 1016, 2
+  size: 336, 336
+  orig: 336, 336
+  offset: 0, 0
+  index: -1
+fawei (4)
+  rotate: false
+  xy: 2, 2
+  size: 336, 336
+  orig: 336, 336
+  offset: 0, 0
+  index: -1

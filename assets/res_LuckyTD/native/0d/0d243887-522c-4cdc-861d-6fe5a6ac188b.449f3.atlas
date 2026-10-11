@@ -1,0 +1,48 @@
+
+gambling.png
+size: 1509,972
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daoju/jiagognji/deng
+  rotate: true
+  xy: 2, 487
+  size: 483, 509
+  orig: 689, 731
+  offset: 103, 111
+  index: -1
+daoju/jiagognji/deng_1
+  rotate: true
+  xy: 513, 487
+  size: 483, 509
+  orig: 689, 731
+  offset: 103, 111
+  index: -1
+daoju/jiagognji/deng_2
+  rotate: false
+  xy: 1024, 461
+  size: 483, 509
+  orig: 689, 731
+  offset: 103, 111
+  index: -1
+deng
+  rotate: true
+  xy: 1024, 2
+  size: 457, 483
+  orig: 689, 731
+  offset: 116, 124
+  index: -1
+deng_1
+  rotate: true
+  xy: 2, 2
+  size: 483, 509
+  orig: 689, 731
+  offset: 103, 111
+  index: -1
+deng_2
+  rotate: true
+  xy: 513, 2
+  size: 483, 509
+  orig: 689, 731
+  offset: 103, 111
+  index: -1

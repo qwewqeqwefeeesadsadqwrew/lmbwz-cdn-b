@@ -1,0 +1,69 @@
+
+boom.png
+size: 828,107
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bz_01
+  rotate: false
+  xy: 508, 6
+  size: 98, 99
+  orig: 103, 103
+  offset: 3, 0
+  index: -1
+bz_02
+  rotate: true
+  xy: 208, 3
+  size: 102, 100
+  orig: 102, 103
+  offset: 0, 0
+  index: -1
+bz_03
+  rotate: false
+  xy: 2, 2
+  size: 101, 103
+  orig: 103, 103
+  offset: 2, 0
+  index: -1
+bz_04
+  rotate: true
+  xy: 105, 3
+  size: 102, 101
+  orig: 103, 102
+  offset: 0, 1
+  index: -1
+bz_05
+  rotate: true
+  xy: 410, 3
+  size: 102, 96
+  orig: 102, 102
+  offset: 0, 1
+  index: -1
+bz_06
+  rotate: true
+  xy: 310, 2
+  size: 103, 98
+  orig: 103, 102
+  offset: 0, 1
+  index: -1
+bz_07
+  rotate: false
+  xy: 608, 8
+  size: 97, 97
+  orig: 103, 103
+  offset: 2, 2
+  index: -1
+bz_08
+  rotate: true
+  xy: 707, 19
+  size: 86, 63
+  orig: 102, 103
+  offset: 3, 34
+  index: -1
+bz_09
+  rotate: true
+  xy: 772, 35
+  size: 70, 54
+  orig: 103, 103
+  offset: 14, 40
+  index: -1

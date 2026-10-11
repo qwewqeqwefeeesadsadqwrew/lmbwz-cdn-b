@@ -1,0 +1,132 @@
+
+jiasu.png
+size: 1864,1128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sj (1)
+  rotate: false
+  xy: 2, 268
+  size: 264, 428
+  orig: 264, 428
+  offset: 0, 0
+  index: -1
+sj (10)
+  rotate: true
+  xy: 432, 2
+  size: 264, 428
+  orig: 264, 428
+  offset: 0, 0
+  index: -1
+sj (11)
+  rotate: false
+  xy: 1066, 698
+  size: 264, 428
+  orig: 264, 428
+  offset: 0, 0
+  index: -1
+sj (12)
+  rotate: false
+  xy: 1066, 268
+  size: 264, 428
+  orig: 264, 428
+  offset: 0, 0
+  index: -1
+sj (13)
+  rotate: true
+  xy: 862, 2
+  size: 264, 428
+  orig: 264, 428
+  offset: 0, 0
+  index: -1
+sj (14)
+  rotate: false
+  xy: 1332, 698
+  size: 264, 428
+  orig: 264, 428
+  offset: 0, 0
+  index: -1
+sj (15)
+  rotate: false
+  xy: 1332, 268
+  size: 264, 428
+  orig: 264, 428
+  offset: 0, 0
+  index: -1
+sj (16)
+  rotate: false
+  xy: 1598, 698
+  size: 264, 428
+  orig: 264, 428
+  offset: 0, 0
+  index: -1
+sj (17)
+  rotate: false
+  xy: 1598, 268
+  size: 264, 428
+  orig: 264, 428
+  offset: 0, 0
+  index: -1
+sj (18)
+  rotate: true
+  xy: 1292, 2
+  size: 264, 428
+  orig: 264, 428
+  offset: 0, 0
+  index: -1
+sj (2)
+  rotate: false
+  xy: 268, 698
+  size: 264, 428
+  orig: 264, 428
+  offset: 0, 0
+  index: -1
+sj (3)
+  rotate: false
+  xy: 268, 268
+  size: 264, 428
+  orig: 264, 428
+  offset: 0, 0
+  index: -1
+sj (4)
+  rotate: true
+  xy: 2, 2
+  size: 264, 428
+  orig: 264, 428
+  offset: 0, 0
+  index: -1
+sj (5)
+  rotate: false
+  xy: 534, 698
+  size: 264, 428
+  orig: 264, 428
+  offset: 0, 0
+  index: -1
+sj (6)
+  rotate: false
+  xy: 534, 268
+  size: 264, 428
+  orig: 264, 428
+  offset: 0, 0
+  index: -1
+sj (7)
+  rotate: false
+  xy: 800, 698
+  size: 264, 428
+  orig: 264, 428
+  offset: 0, 0
+  index: -1
+sj (8)
+  rotate: false
+  xy: 800, 268
+  size: 264, 428
+  orig: 264, 428
+  offset: 0, 0
+  index: -1
+sj (9)
+  rotate: false
+  xy: 2, 698
+  size: 264, 428
+  orig: 264, 428
+  offset: 0, 0
+  index: -1

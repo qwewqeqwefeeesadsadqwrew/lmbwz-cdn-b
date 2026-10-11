@@ -1,0 +1,216 @@
+
+bingdilei.png
+size: 2007,1755
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill/6/guangdian_00002
+  rotate: true
+  xy: 1930, 1649
+  size: 104, 75
+  orig: 113, 75
+  offset: 4, 0
+  index: -1
+effect/skill/baozha/baozha_00050
+  rotate: false
+  xy: 1564, 177
+  size: 200, 188
+  orig: 610, 506
+  offset: 205, 122
+  index: -1
+effect/skill/baozha/baozha_00052
+  rotate: false
+  xy: 1487, 1365
+  size: 441, 388
+  orig: 610, 506
+  offset: 89, 67
+  index: -1
+effect/skill/baozha/baozha_00054
+  rotate: false
+  xy: 2, 903
+  size: 504, 428
+  orig: 610, 506
+  offset: 56, 35
+  index: -1
+effect/skill/baozha/baozha_00056
+  rotate: false
+  xy: 520, 1333
+  size: 512, 420
+  orig: 610, 506
+  offset: 52, 43
+  index: -1
+effect/skill/baozha/baozha_00058
+  rotate: false
+  xy: 2, 1333
+  size: 516, 420
+  orig: 610, 506
+  offset: 49, 47
+  index: -1
+effect/skill/baozha/baozha_00060
+  rotate: true
+  xy: 2, 380
+  size: 521, 408
+  orig: 610, 506
+  offset: 51, 64
+  index: -1
+effect/skill/baozha/baozha_00062
+  rotate: false
+  xy: 508, 925
+  size: 480, 406
+  orig: 610, 506
+  offset: 70, 72
+  index: -1
+effect/skill/baozha/baozha_00064
+  rotate: false
+  xy: 1034, 1357
+  size: 451, 396
+  orig: 610, 506
+  offset: 77, 87
+  index: -1
+effect/skill/baozha/baozha_00066
+  rotate: false
+  xy: 2, 67
+  size: 457, 311
+  orig: 610, 506
+  offset: 72, 175
+  index: -1
+effect/skill/baozha/baozha_00068
+  rotate: true
+  xy: 990, 925
+  size: 406, 310
+  orig: 610, 506
+  offset: 69, 175
+  index: -1
+effect/skill/baozha/baozha_00070
+  rotate: true
+  xy: 1206, 588
+  size: 335, 303
+  orig: 610, 506
+  offset: 134, 176
+  index: -1
+effect/skill/baozha/baozha_00072
+  rotate: true
+  xy: 1259, 253
+  size: 333, 303
+  orig: 610, 506
+  offset: 136, 177
+  index: -1
+effect/skill/baozha/baozha_00074
+  rotate: false
+  xy: 1511, 634
+  size: 269, 299
+  orig: 610, 506
+  offset: 136, 178
+  index: -1
+effect/skill/baozha/baozha_00076
+  rotate: true
+  xy: 1259, 12
+  size: 239, 296
+  orig: 610, 506
+  offset: 142, 180
+  index: -1
+effect/skill/baozha_add/baozha_add_00052
+  rotate: false
+  xy: 1766, 24
+  size: 214, 129
+  orig: 518, 338
+  offset: 156, 42
+  index: -1
+effect/skill/baozha_add/baozha_add_00054
+  rotate: true
+  xy: 712, 6
+  size: 449, 271
+  orig: 518, 338
+  offset: 35, 8
+  index: -1
+effect/skill/baozha_add/baozha_add_00056
+  rotate: true
+  xy: 680, 457
+  size: 466, 267
+  orig: 518, 338
+  offset: 26, 38
+  index: -1
+effect/skill/baozha_add/baozha_add_00058
+  rotate: true
+  xy: 412, 423
+  size: 478, 266
+  orig: 518, 338
+  offset: 20, 41
+  index: -1
+effect/skill/baozha_add/baozha_add_00060
+  rotate: true
+  xy: 985, 57
+  size: 427, 272
+  orig: 518, 338
+  offset: 16, 40
+  index: -1
+effect/skill/baozha_add/baozha_add_00062
+  rotate: true
+  xy: 949, 486
+  size: 437, 255
+  orig: 518, 338
+  offset: 13, 42
+  index: -1
+effect/skill/baozha_add/baozha_add_00064
+  rotate: true
+  xy: 1528, 952
+  size: 411, 248
+  orig: 518, 338
+  offset: 45, 46
+  index: -1
+effect/skill/baozha_add/baozha_add_00066
+  rotate: true
+  xy: 461, 2
+  size: 419, 249
+  orig: 518, 338
+  offset: 40, 44
+  index: -1
+effect/skill/baozha_add/baozha_add_00068
+  rotate: true
+  xy: 1302, 935
+  size: 420, 224
+  orig: 518, 338
+  offset: 39, 38
+  index: -1
+effect/skill/baozha_add/baozha_add_00070
+  rotate: true
+  xy: 1778, 953
+  size: 410, 221
+  orig: 518, 338
+  offset: 41, 26
+  index: -1
+effect/skill/baozha_add/baozha_add_00072
+  rotate: true
+  xy: 1564, 367
+  size: 265, 184
+  orig: 518, 338
+  offset: 150, 47
+  index: -1
+effect/skill/baozha_add/baozha_add_00074
+  rotate: true
+  xy: 1782, 683
+  size: 268, 186
+  orig: 518, 338
+  offset: 143, 47
+  index: -1
+effect/skill/baozha_add/baozha_add_00076
+  rotate: true
+  xy: 1750, 394
+  size: 238, 184
+  orig: 518, 338
+  offset: 143, 48
+  index: -1
+effect/skill/baozha_add/baozha_add_00078
+  rotate: true
+  xy: 1766, 155
+  size: 237, 179
+  orig: 518, 338
+  offset: 143, 51
+  index: -1
+effect/skill/baozha_add/baozha_add_00080
+  rotate: false
+  xy: 1557, 23
+  size: 207, 152
+  orig: 518, 338
+  offset: 153, 77
+  index: -1

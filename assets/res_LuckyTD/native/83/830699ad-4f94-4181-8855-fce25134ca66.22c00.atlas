@@ -1,0 +1,48 @@
+
+win.png
+size: 293,175
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+icon_jiagognji
+  rotate: false
+  xy: 2, 77
+  size: 97, 96
+  orig: 108, 108
+  offset: 5, 6
+  index: -1
+icon_jiagognsu
+  rotate: true
+  xy: 101, 2
+  size: 78, 93
+  orig: 108, 108
+  offset: 15, 7
+  index: -1
+icon_jinbi
+  rotate: true
+  xy: 198, 86
+  size: 87, 92
+  orig: 108, 108
+  offset: 10, 8
+  index: -1
+icon_shengming
+  rotate: false
+  xy: 198, 2
+  size: 93, 82
+  orig: 108, 108
+  offset: 7, 13
+  index: -1
+icon_wuqi
+  rotate: false
+  xy: 101, 82
+  size: 95, 91
+  orig: 108, 108
+  offset: 6, 9
+  index: -1
+icon_zhongjidazhao
+  rotate: true
+  xy: 2, 8
+  size: 67, 92
+  orig: 108, 108
+  offset: 20, 8
+  index: -1

@@ -1,0 +1,41 @@
+
+chuizi.png
+size: 982,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chui/daji_01
+  rotate: false
+  xy: 684, 2
+  size: 176, 212
+  orig: 256, 256
+  offset: 40, 28
+  index: -1
+chui/daji_02
+  rotate: true
+  xy: 462, 14
+  size: 200, 220
+  orig: 256, 256
+  offset: 12, 8
+  index: -1
+chui/daji_03
+  rotate: true
+  xy: 232, 18
+  size: 196, 228
+  orig: 256, 256
+  offset: 8, 4
+  index: -1
+chui/daji_04
+  rotate: true
+  xy: 2, 2
+  size: 212, 228
+  orig: 256, 256
+  offset: 0, 8
+  index: -1
+chuiz
+  rotate: true
+  xy: 862, 10
+  size: 204, 118
+  orig: 204, 118
+  offset: 0, 0
+  index: -1
